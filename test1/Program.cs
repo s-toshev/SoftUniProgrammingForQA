@@ -35,8 +35,12 @@ namespace test1
                 Console.Write(stringBuilder.ToString());
                 Console.WriteLine();
             }
-
-
+            ////!!!!!!!!!!!! this is useful method:
+            var result2 = result1.Take(2);
+            Console.WriteLine(string.Join(" ",result2));
+            /////!!!!!!!!!!
+            /// 
+            
             ///Console.ReadLine().Split().Where(w => w.Length % 2 == 0).ToList().ForEach(Console.WriteLine);
 
 
