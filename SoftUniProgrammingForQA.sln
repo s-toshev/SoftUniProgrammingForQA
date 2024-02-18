@@ -221,27 +221,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Same Values in Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{B7557263-F82B-4125-B3A5-F43886AD67DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count Chars in a String", "05. Count Chars in a String\05. Count Chars in a String.csproj", "{E52A609C-E94B-449E-AE43-9F2D7A968D9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Count Chars in a String", "05. Count Chars in a String\05. Count Chars in a String.csproj", "{E52A609C-E94B-449E-AE43-9F2D7A968D9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. A Miner Task", "06. A Miner Task\06. A Miner Task.csproj", "{51B15190-C234-4E65-8748-CD52CEEEEC41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. A Miner Task", "06. A Miner Task\06. A Miner Task.csproj", "{51B15190-C234-4E65-8748-CD52CEEEEC41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Orders", "07. Orders\07. Orders.csproj", "{1F3BC78C-683C-4CD0-B782-5B4BC18A7BB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Orders", "07. Orders\07. Orders.csproj", "{1F3BC78C-683C-4CD0-B782-5B4BC18A7BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SoftUni Parking", "08. SoftUni Parking\08. SoftUni Parking.csproj", "{38FF3BA3-682E-4C61-8C1F-5625056AD2C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. SoftUni Parking", "08. SoftUni Parking\08. SoftUni Parking.csproj", "{38FF3BA3-682E-4C61-8C1F-5625056AD2C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Student Academy", "09. Student Academy\09. Student Academy.csproj", "{8AE4B5ED-97F6-4E77-BA24-5679C3B2D6F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Student Academy", "09. Student Academy\09. Student Academy.csproj", "{8AE4B5ED-97F6-4E77-BA24-5679C3B2D6F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Company Users", "10. Company Users\10. Company Users.csproj", "{8144566B-55BF-4286-A99C-3578CCC8B6F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Company Users", "10. Company Users\10. Company Users.csproj", "{8144566B-55BF-4286-A99C-3578CCC8B6F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{0B0DD08D-2C9E-4977-A781-0B2AC646B4B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{0B0DD08D-2C9E-4977-A781-0B2AC646B4B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{AA5EE358-5BAA-411F-99BF-24F48AB87477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{AA5EE358-5BAA-411F-99BF-24F48AB87477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{BE53D215-153D-4D19-AD8A-3446BE794E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{BE53D215-153D-4D19-AD8A-3446BE794E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{2984C05A-434B-4705-AAB3-A56BB99EBB47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{2984C05A-434B-4705-AAB3-A56BB99EBB47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Parking Lot", "07. Parking Lot\07. Parking Lot.csproj", "{DFA67B0A-27BF-45C3-901B-FD7336E29204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Parking Lot", "07. Parking Lot\07. Parking Lot.csproj", "{DFA67B0A-27BF-45C3-901B-FD7336E29204}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Objects&ClassesPartTwo", "02.Objects&ClassesPartTwo", "{85827842-4D84-4C14-8390-210602FAE53E}"
 EndProject
@@ -252,6 +252,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.AbstractionAndPolymorphism", "05.AbstractionAndPolymorphism", "{F4772F0F-6A9E-4DBE-9E0D-FE384D59F790}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.ImplementingAnOOPHierarchy", "06.ImplementingAnOOPHierarchy", "{A2A69188-AE06-4C83-9631-821F2FFCB7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test1\test.csproj", "{091F2F12-E5E6-43FB-AA35-4BD7FCEC4A19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "reDo", "reDo", "{78AAEBE3-0CB2-49D9-A455-9A1EE3410147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstTask", "firstTask\firstTask.csproj", "{7AFF3C58-438E-4040-8876-4416FBF7F3BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -671,6 +677,14 @@ Global
 		{DFA67B0A-27BF-45C3-901B-FD7336E29204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFA67B0A-27BF-45C3-901B-FD7336E29204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFA67B0A-27BF-45C3-901B-FD7336E29204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091F2F12-E5E6-43FB-AA35-4BD7FCEC4A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091F2F12-E5E6-43FB-AA35-4BD7FCEC4A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091F2F12-E5E6-43FB-AA35-4BD7FCEC4A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091F2F12-E5E6-43FB-AA35-4BD7FCEC4A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFF3C58-438E-4040-8876-4416FBF7F3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFF3C58-438E-4040-8876-4416FBF7F3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFF3C58-438E-4040-8876-4416FBF7F3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFF3C58-438E-4040-8876-4416FBF7F3BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -798,6 +812,9 @@ Global
 		{28C0DFB3-90E2-4080-AA42-9CB85384E1F6} = {4AC7152A-F6C8-44BA-B664-2E272B121DA2}
 		{F4772F0F-6A9E-4DBE-9E0D-FE384D59F790} = {4AC7152A-F6C8-44BA-B664-2E272B121DA2}
 		{A2A69188-AE06-4C83-9631-821F2FFCB7C3} = {4AC7152A-F6C8-44BA-B664-2E272B121DA2}
+		{091F2F12-E5E6-43FB-AA35-4BD7FCEC4A19} = {6016AC08-AB60-4A50-9E19-E66C3F7419CE}
+		{78AAEBE3-0CB2-49D9-A455-9A1EE3410147} = {6016AC08-AB60-4A50-9E19-E66C3F7419CE}
+		{7AFF3C58-438E-4040-8876-4416FBF7F3BB} = {78AAEBE3-0CB2-49D9-A455-9A1EE3410147}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FCFFA8A1-82C4-47E9-AEFE-F606904AEE24}
