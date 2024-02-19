@@ -41,7 +41,7 @@ namespace test1
             /////!!!!!!!!!!
             /// 
             
-            ///Console.ReadLine().Split().Where(w => w.Length % 2 == 0).ToList().ForEach(Console.WriteLine);
+           // Console.ReadLine().Split().Where(w => w.Length % 2 == 0).ToList().ForEach(Console.WriteLine);
 
 
 
