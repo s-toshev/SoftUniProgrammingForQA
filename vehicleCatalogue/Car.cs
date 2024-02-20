@@ -11,7 +11,6 @@ namespace vehicleCatalogue
         private readonly string Brand;
         private readonly string Model;
         private readonly int HorsePower;
-
         public Car(string brand, string model, int horsePower)
         {
             this.Brand = brand;
