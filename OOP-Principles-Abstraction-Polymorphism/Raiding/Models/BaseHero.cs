@@ -9,6 +9,8 @@ public abstract class BaseHero : IHero
         this.Name = name;
     }
 
+
+
     public string Name { get; }
 
     public abstract int Power { get; }
